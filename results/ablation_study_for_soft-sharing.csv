@@ -1,0 +1,388 @@
+﻿share_layer,sharing_weight,task,metric,percentage_rate
+Without soft-sharing,0.25,emotion_predict,Precision,0.7568
+Without soft-sharing,0.25,emotion_predict,Recall,0.6417
+Without soft-sharing,0.25,emotion_predict,F1 Score,0.6916
+Without soft-sharing,0.25,cause_predict,Precision,0.6694
+Without soft-sharing,0.25,cause_predict,Recall,0.4698
+Without soft-sharing,0.25,cause_predict,F1 Score,0.5484
+Without soft-sharing,0.25,pair_predict,Precision,0.5486
+Without soft-sharing,0.25,pair_predict,Recall,0.4927
+Without soft-sharing,0.25,pair_predict,F1 Score,0.5178
+Without soft-sharing,0.5,emotion_predict,Precision,0.7584
+Without soft-sharing,0.5,emotion_predict,Recall,0.6264
+Without soft-sharing,0.5,emotion_predict,F1 Score,0.6828
+Without soft-sharing,0.5,cause_predict,Precision,0.7023
+Without soft-sharing,0.5,cause_predict,Recall,0.4615
+Without soft-sharing,0.5,cause_predict,F1 Score,0.5509
+Without soft-sharing,0.5,pair_predict,Precision,0.5475
+Without soft-sharing,0.5,pair_predict,Recall,0.5031
+Without soft-sharing,0.5,pair_predict,F1 Score,0.5214
+Without soft-sharing,0.75,emotion_predict,Precision,0.7638
+Without soft-sharing,0.75,emotion_predict,Recall,0.6599
+Without soft-sharing,0.75,emotion_predict,F1 Score,0.707
+Without soft-sharing,0.75,cause_predict,Precision,0.6909
+Without soft-sharing,0.75,cause_predict,Recall,0.4334
+Without soft-sharing,0.75,cause_predict,F1 Score,0.5309
+Without soft-sharing,0.75,pair_predict,Precision,0.5328
+Without soft-sharing,0.75,pair_predict,Recall,0.5025
+Without soft-sharing,0.75,pair_predict,F1 Score,0.5166
+Without soft-sharing,1,emotion_predict,Precision,0.7492
+Without soft-sharing,1,emotion_predict,Recall,0.656
+Without soft-sharing,1,emotion_predict,F1 Score,0.6973
+Without soft-sharing,1,cause_predict,Precision,0.7125
+Without soft-sharing,1,cause_predict,Recall,0.425
+Without soft-sharing,1,cause_predict,F1 Score,0.5263
+Without soft-sharing,1,pair_predict,Precision,0.5627
+Without soft-sharing,1,pair_predict,Recall,0.4895
+Without soft-sharing,1,pair_predict,F1 Score,0.5211
+Share first layer,0.25,emotion_predict,Precision,0.744
+Share first layer,0.25,emotion_predict,Recall,0.6689
+Share first layer,0.25,emotion_predict,F1 Score,0.7038
+Share first layer,0.25,cause_predict,Precision,0.692
+Share first layer,0.25,cause_predict,Recall,0.4511
+Share first layer,0.25,cause_predict,F1 Score,0.5433
+Share first layer,0.25,pair_predict,Precision,0.553
+Share first layer,0.25,pair_predict,Recall,0.4996
+Share first layer,0.25,pair_predict,F1 Score,0.524
+Share first layer,0.5,emotion_predict,Precision,0.7735
+Share first layer,0.5,emotion_predict,Recall,0.6515
+Share first layer,0.5,emotion_predict,F1 Score,0.7067
+Share first layer,0.5,cause_predict,Precision,0.7006
+Share first layer,0.5,cause_predict,Recall,0.4279
+Share first layer,0.5,cause_predict,F1 Score,0.5253
+Share first layer,0.5,pair_predict,Precision,0.5433
+Share first layer,0.5,pair_predict,Recall,0.5053
+Share first layer,0.5,pair_predict,F1 Score,0.5229
+Share first layer,0.75,emotion_predict,Precision,0.7547
+Share first layer,0.75,emotion_predict,Recall,0.6574
+Share first layer,0.75,emotion_predict,F1 Score,0.7011
+Share first layer,0.75,cause_predict,Precision,0.7284
+Share first layer,0.75,cause_predict,Recall,0.4049
+Share first layer,0.75,cause_predict,F1 Score,0.5136
+Share first layer,0.75,pair_predict,Precision,0.5552
+Share first layer,0.75,pair_predict,Recall,0.4902
+Share first layer,0.75,pair_predict,F1 Score,0.518
+Share first layer,1,emotion_predict,Precision,0.7522
+Share first layer,1,emotion_predict,Recall,0.6633
+Share first layer,1,emotion_predict,F1 Score,0.7039
+Share first layer,1,cause_predict,Precision,0.6836
+Share first layer,1,cause_predict,Recall,0.471
+Share first layer,1,cause_predict,F1 Score,0.5514
+Share first layer,1,pair_predict,Precision,0.5402
+Share first layer,1,pair_predict,Recall,0.4998
+Share first layer,1,pair_predict,F1 Score,0.5176
+Share all layers,0.25,emotion_predict,Precision,0.7446
+Share all layers,0.25,emotion_predict,Recall,0.6546
+Share all layers,0.25,emotion_predict,F1 Score,0.6953
+Share all layers,0.25,cause_predict,Precision,0.7111
+Share all layers,0.25,cause_predict,Recall,0.4145
+Share all layers,0.25,cause_predict,F1 Score,0.5189
+Share all layers,0.25,pair_predict,Precision,0.5758
+Share all layers,0.25,pair_predict,Recall,0.4757
+Share all layers,0.25,pair_predict,F1 Score,0.5182
+Share all layers,0.5,emotion_predict,Precision,0.7444
+Share all layers,0.5,emotion_predict,Recall,0.6521
+Share all layers,0.5,emotion_predict,F1 Score,0.694
+Share all layers,0.5,cause_predict,Precision,0.6783
+Share all layers,0.5,cause_predict,Recall,0.4442
+Share all layers,0.5,cause_predict,F1 Score,0.5265
+Share all layers,0.5,pair_predict,Precision,0.5552
+Share all layers,0.5,pair_predict,Recall,0.4805
+Share all layers,0.5,pair_predict,F1 Score,0.5137
+Share all layers,0.75,emotion_predict,Precision,0.7228
+Share all layers,0.75,emotion_predict,Recall,0.6231
+Share all layers,0.75,emotion_predict,F1 Score,0.6667
+Share all layers,0.75,cause_predict,Precision,0.6947
+Share all layers,0.75,cause_predict,Recall,0.449
+Share all layers,0.75,cause_predict,F1 Score,0.5374
+Share all layers,0.75,pair_predict,Precision,0.5661
+Share all layers,0.75,pair_predict,Recall,0.4794
+Share all layers,0.75,pair_predict,F1 Score,0.5152
+Share all layers,1,emotion_predict,Precision,0.736
+Share all layers,1,emotion_predict,Recall,0.6256
+Share all layers,1,emotion_predict,F1 Score,0.673
+Share all layers,1,cause_predict,Precision,0.6803
+Share all layers,1,cause_predict,Recall,0.4318
+Share all layers,1,cause_predict,F1 Score,0.5235
+Share all layers,1,pair_predict,Precision,0.5573
+Share all layers,1,pair_predict,Recall,0.4895
+Share all layers,1,pair_predict,F1 Score,0.5199
+Share first layer,0.1,emotion_predict,Precision,0.7405
+Share first layer,0.1,emotion_predict,Recall,0.6759
+Share first layer,0.1,emotion_predict,F1 Score,0.7052
+Share first layer,0.1,cause_predict,Precision,0.6978
+Share first layer,0.1,cause_predict,Recall,0.4523
+Share first layer,0.1,cause_predict,F1 Score,0.5412
+Share first layer,0.1,pair_predict,Precision,0.532
+Share first layer,0.1,pair_predict,Recall,0.5086
+Share first layer,0.1,pair_predict,F1 Score,0.5191
+Share first layer,0.2,emotion_predict,Precision,0.771
+Share first layer,0.2,emotion_predict,Recall,0.6403
+Share first layer,0.2,emotion_predict,F1 Score,0.6974
+Share first layer,0.2,cause_predict,Precision,0.7048
+Share first layer,0.2,cause_predict,Recall,0.4195
+Share first layer,0.2,cause_predict,F1 Score,0.5179
+Share first layer,0.2,pair_predict,Precision,0.5452
+Share first layer,0.2,pair_predict,Recall,0.5022
+Share first layer,0.2,pair_predict,F1 Score,0.5198
+Share first layer,0.3,emotion_predict,Precision,0.7594
+Share first layer,0.3,emotion_predict,Recall,0.6602
+Share first layer,0.3,emotion_predict,F1 Score,0.705
+Share first layer,0.3,cause_predict,Precision,0.7063
+Share first layer,0.3,cause_predict,Recall,0.4408
+Share first layer,0.3,cause_predict,F1 Score,0.5406
+Share first layer,0.3,pair_predict,Precision,0.5598
+Share first layer,0.3,pair_predict,Recall,0.4852
+Share first layer,0.3,pair_predict,F1 Score,0.5173
+Share first layer,0.4,emotion_predict,Precision,0.7568
+Share first layer,0.4,emotion_predict,Recall,0.6592
+Share first layer,0.4,emotion_predict,F1 Score,0.7038
+Share first layer,0.4,cause_predict,Precision,0.7167
+Share first layer,0.4,cause_predict,Recall,0.4352
+Share first layer,0.4,cause_predict,F1 Score,0.5369
+Share first layer,0.4,pair_predict,Precision,0.5645
+Share first layer,0.4,pair_predict,Recall,0.4814
+Share first layer,0.4,pair_predict,F1 Score,0.5193
+Share first layer,0.6,emotion_predict,Precision,0.7657
+Share first layer,0.6,emotion_predict,Recall,0.6465
+Share first layer,0.6,emotion_predict,F1 Score,0.6979
+Share first layer,0.6,cause_predict,Precision,0.7157
+Share first layer,0.6,cause_predict,Recall,0.4195
+Share first layer,0.6,cause_predict,F1 Score,0.5275
+Share first layer,0.6,pair_predict,Precision,0.5578
+Share first layer,0.6,pair_predict,Recall,0.487
+Share first layer,0.6,pair_predict,F1 Score,0.5189
+Share first layer,0.7,emotion_predict,Precision,0.7495
+Share first layer,0.7,emotion_predict,Recall,0.6595
+Share first layer,0.7,emotion_predict,F1 Score,0.7003
+Share first layer,0.7,cause_predict,Precision,0.7148
+Share first layer,0.7,cause_predict,Recall,0.4179
+Share first layer,0.7,cause_predict,F1 Score,0.524
+Share first layer,0.7,pair_predict,Precision,0.5679
+Share first layer,0.7,pair_predict,Recall,0.4797
+Share first layer,0.7,pair_predict,F1 Score,0.5181
+Share first layer,0.8,emotion_predict,Precision,0.7541
+Share first layer,0.8,emotion_predict,Recall,0.6521
+Share first layer,0.8,emotion_predict,F1 Score,0.6985
+Share first layer,0.8,cause_predict,Precision,0.6931
+Share first layer,0.8,cause_predict,Recall,0.4441
+Share first layer,0.8,cause_predict,F1 Score,0.5397
+Share first layer,0.8,pair_predict,Precision,0.5536
+Share first layer,0.8,pair_predict,Recall,0.4902
+Share first layer,0.8,pair_predict,F1 Score,0.5183
+Share first layer,0.9,emotion_predict,Precision,0.7573
+Share first layer,0.9,emotion_predict,Recall,0.6601
+Share first layer,0.9,emotion_predict,F1 Score,0.7045
+Share first layer,0.9,cause_predict,Precision,0.7018
+Share first layer,0.9,cause_predict,Recall,0.4436
+Share first layer,0.9,cause_predict,F1 Score,0.5403
+Share first layer,0.9,pair_predict,Precision,0.5472
+Share first layer,0.9,pair_predict,Recall,0.5026
+Share first layer,0.9,pair_predict,F1 Score,0.5222
+Share first layer,0.1,emotion_predict,Precision,0.7444
+Share first layer,0.1,emotion_predict,Recall,0.6591
+Share first layer,0.1,emotion_predict,F1 Score,0.6969
+Share first layer,0.1,cause_predict,Precision,0.6885
+Share first layer,0.1,cause_predict,Recall,0.445
+Share first layer,0.1,cause_predict,F1 Score,0.5376
+Share first layer,0.1,pair_predict,Precision,0.5541
+Share first layer,0.1,pair_predict,Recall,0.4906
+Share first layer,0.1,pair_predict,F1 Score,0.5187
+Share first layer,0.2,emotion_predict,Precision,0.7384
+Share first layer,0.2,emotion_predict,Recall,0.6972
+Share first layer,0.2,emotion_predict,F1 Score,0.7164
+Share first layer,0.2,cause_predict,Precision,0.6975
+Share first layer,0.2,cause_predict,Recall,0.4525
+Share first layer,0.2,cause_predict,F1 Score,0.546
+Share first layer,0.2,pair_predict,Precision,0.5544
+Share first layer,0.2,pair_predict,Recall,0.4926
+Share first layer,0.2,pair_predict,F1 Score,0.5201
+Share first layer,0.3,emotion_predict,Precision,0.7588
+Share first layer,0.3,emotion_predict,Recall,0.6427
+Share first layer,0.3,emotion_predict,F1 Score,0.6937
+Share first layer,0.3,cause_predict,Precision,0.7018
+Share first layer,0.3,cause_predict,Recall,0.4424
+Share first layer,0.3,cause_predict,F1 Score,0.5387
+Share first layer,0.3,pair_predict,Precision,0.5774
+Share first layer,0.3,pair_predict,Recall,0.4732
+Share first layer,0.3,pair_predict,F1 Score,0.518
+Share first layer,0.4,emotion_predict,Precision,0.7545
+Share first layer,0.4,emotion_predict,Recall,0.6537
+Share first layer,0.4,emotion_predict,F1 Score,0.6991
+Share first layer,0.4,cause_predict,Precision,0.7026
+Share first layer,0.4,cause_predict,Recall,0.4152
+Share first layer,0.4,cause_predict,F1 Score,0.5128
+Share first layer,0.4,pair_predict,Precision,0.5597
+Share first layer,0.4,pair_predict,Recall,0.4919
+Share first layer,0.4,pair_predict,F1 Score,0.5214
+Share first layer,0.5,emotion_predict,Precision,0.7532
+Share first layer,0.5,emotion_predict,Recall,0.6634
+Share first layer,0.5,emotion_predict,F1 Score,0.7043
+Share first layer,0.5,cause_predict,Precision,0.688
+Share first layer,0.5,cause_predict,Recall,0.4498
+Share first layer,0.5,cause_predict,F1 Score,0.5426
+Share first layer,0.5,pair_predict,Precision,0.5355
+Share first layer,0.5,pair_predict,Recall,0.5059
+Share first layer,0.5,pair_predict,F1 Score,0.5184
+Share first layer,0.6,emotion_predict,Precision,0.7516
+Share first layer,0.6,emotion_predict,Recall,0.6536
+Share first layer,0.6,emotion_predict,F1 Score,0.6968
+Share first layer,0.6,cause_predict,Precision,0.6896
+Share first layer,0.6,cause_predict,Recall,0.4637
+Share first layer,0.6,cause_predict,F1 Score,0.5522
+Share first layer,0.6,pair_predict,Precision,0.5516
+Share first layer,0.6,pair_predict,Recall,0.4935
+Share first layer,0.6,pair_predict,F1 Score,0.5182
+Share first layer,0.7,emotion_predict,Precision,0.7427
+Share first layer,0.7,emotion_predict,Recall,0.657
+Share first layer,0.7,emotion_predict,F1 Score,0.6953
+Share first layer,0.7,cause_predict,Precision,0.6905
+Share first layer,0.7,cause_predict,Recall,0.4584
+Share first layer,0.7,cause_predict,F1 Score,0.5427
+Share first layer,0.7,pair_predict,Precision,0.5515
+Share first layer,0.7,pair_predict,Recall,0.4883
+Share first layer,0.7,pair_predict,F1 Score,0.5163
+Share first layer,0.8,emotion_predict,Precision,0.7633
+Share first layer,0.8,emotion_predict,Recall,0.647
+Share first layer,0.8,emotion_predict,F1 Score,0.6994
+Share first layer,0.8,cause_predict,Precision,0.6941
+Share first layer,0.8,cause_predict,Recall,0.4449
+Share first layer,0.8,cause_predict,F1 Score,0.5373
+Share first layer,0.8,pair_predict,Precision,0.5576
+Share first layer,0.8,pair_predict,Recall,0.4807
+Share first layer,0.8,pair_predict,F1 Score,0.5148
+Share first layer,0.9,emotion_predict,Precision,0.7555
+Share first layer,0.9,emotion_predict,Recall,0.6703
+Share first layer,0.9,emotion_predict,F1 Score,0.7101
+Share first layer,0.9,cause_predict,Precision,0.6938
+Share first layer,0.9,cause_predict,Recall,0.4431
+Share first layer,0.9,cause_predict,F1 Score,0.5373
+Share first layer,0.9,pair_predict,Precision,0.5504
+Share first layer,0.9,pair_predict,Recall,0.499
+Share first layer,0.9,pair_predict,F1 Score,0.522
+Share first layer,1,emotion_predict,Precision,0.7536
+Share first layer,1,emotion_predict,Recall,0.6769
+Share first layer,1,emotion_predict,F1 Score,0.7125
+Share first layer,1,cause_predict,Precision,0.6971
+Share first layer,1,cause_predict,Recall,0.4451
+Share first layer,1,cause_predict,F1 Score,0.5405
+Share first layer,1,pair_predict,Precision,0.5707
+Share first layer,1,pair_predict,Recall,0.481
+Share first layer,1,pair_predict,F1 Score,0.5201
+Share first layer,0.1,emotion_predict,Precision,0.7713
+Share first layer,0.1,emotion_predict,Recall,0.6565
+Share first layer,0.1,emotion_predict,F1 Score,0.7087
+Share first layer,0.1,cause_predict,Precision,0.6921
+Share first layer,0.1,cause_predict,Recall,0.4562
+Share first layer,0.1,cause_predict,F1 Score,0.5489
+Share first layer,0.1,pair_predict,Precision,0.5527
+Share first layer,0.1,pair_predict,Recall,0.4977
+Share first layer,0.1,pair_predict,F1 Score,0.5226
+Share first layer,0.2,emotion_predict,Precision,0.7466
+Share first layer,0.2,emotion_predict,Recall,0.6668
+Share first layer,0.2,emotion_predict,F1 Score,0.7031
+Share first layer,0.2,cause_predict,Precision,0.694
+Share first layer,0.2,cause_predict,Recall,0.4536
+Share first layer,0.2,cause_predict,F1 Score,0.546
+Share first layer,0.2,pair_predict,Precision,0.5509
+Share first layer,0.2,pair_predict,Recall,0.4963
+Share first layer,0.2,pair_predict,F1 Score,0.5198
+Share first layer,0.3,emotion_predict,Precision,0.7511
+Share first layer,0.3,emotion_predict,Recall,0.6651
+Share first layer,0.3,emotion_predict,F1 Score,0.7052
+Share first layer,0.3,cause_predict,Precision,0.6914
+Share first layer,0.3,cause_predict,Recall,0.4675
+Share first layer,0.3,cause_predict,F1 Score,0.5539
+Share first layer,0.3,pair_predict,Precision,0.5649
+Share first layer,0.3,pair_predict,Recall,0.486
+Share first layer,0.3,pair_predict,F1 Score,0.5214
+Share first layer,0.4,emotion_predict,Precision,0.7683
+Share first layer,0.4,emotion_predict,Recall,0.6455
+Share first layer,0.4,emotion_predict,F1 Score,0.6985
+Share first layer,0.4,cause_predict,Precision,0.6998
+Share first layer,0.4,cause_predict,Recall,0.427
+Share first layer,0.4,cause_predict,F1 Score,0.525
+Share first layer,0.4,pair_predict,Precision,0.5525
+Share first layer,0.4,pair_predict,Recall,0.4955
+Share first layer,0.4,pair_predict,F1 Score,0.5206
+Share first layer,0.5,emotion_predict,Precision,0.7666
+Share first layer,0.5,emotion_predict,Recall,0.6536
+Share first layer,0.5,emotion_predict,F1 Score,0.7048
+Share first layer,0.5,cause_predict,Precision,0.7063
+Share first layer,0.5,cause_predict,Recall,0.4571
+Share first layer,0.5,cause_predict,F1 Score,0.5511
+Share first layer,0.5,pair_predict,Precision,0.5668
+Share first layer,0.5,pair_predict,Recall,0.4866
+Share first layer,0.5,pair_predict,F1 Score,0.5226
+Share first layer,0.6,emotion_predict,Precision,0.732
+Share first layer,0.6,emotion_predict,Recall,0.6759
+Share first layer,0.6,emotion_predict,F1 Score,0.7021
+Share first layer,0.6,cause_predict,Precision,0.6871
+Share first layer,0.6,cause_predict,Recall,0.476
+Share first layer,0.6,cause_predict,F1 Score,0.5576
+Share first layer,0.6,pair_predict,Precision,0.5499
+Share first layer,0.6,pair_predict,Recall,0.4971
+Share first layer,0.6,pair_predict,F1 Score,0.5201
+Share first layer,0.7,emotion_predict,Precision,0.7571
+Share first layer,0.7,emotion_predict,Recall,0.6652
+Share first layer,0.7,emotion_predict,F1 Score,0.7069
+Share first layer,0.7,cause_predict,Precision,0.6974
+Share first layer,0.7,cause_predict,Recall,0.4658
+Share first layer,0.7,cause_predict,F1 Score,0.5551
+Share first layer,0.7,pair_predict,Precision,0.5484
+Share first layer,0.7,pair_predict,Recall,0.4993
+Share first layer,0.7,pair_predict,F1 Score,0.5198
+Share first layer,0.8,emotion_predict,Precision,0.741
+Share first layer,0.8,emotion_predict,Recall,0.6902
+Share first layer,0.8,emotion_predict,F1 Score,0.7142
+Share first layer,0.8,cause_predict,Precision,0.6804
+Share first layer,0.8,cause_predict,Recall,0.4525
+Share first layer,0.8,cause_predict,F1 Score,0.05387
+Share first layer,0.8,pair_predict,Precision,0.5492
+Share first layer,0.8,pair_predict,Recall,0.4901
+Share first layer,0.8,pair_predict,F1 Score,0.5162
+Share first layer,0.9,emotion_predict,Precision,0.7674
+Share first layer,0.9,emotion_predict,Recall,0.6306
+Share first layer,0.9,emotion_predict,F1 Score,0.6888
+Share first layer,0.9,cause_predict,Precision,0.6761
+Share first layer,0.9,cause_predict,Recall,0.4734
+Share first layer,0.9,cause_predict,F1 Score,0.5517
+Share first layer,0.9,pair_predict,Precision,0.5367
+Share first layer,0.9,pair_predict,Recall,0.5045
+Share first layer,0.9,pair_predict,F1 Score,0.518
+Share first layer,0.25,emotion_predict,Precision,0.7551
+Share first layer,0.25,emotion_predict,Recall,0.6614
+Share first layer,0.25,emotion_predict,F1 Score,0.7031
+Share first layer,0.25,cause_predict,Precision,0.6915
+Share first layer,0.25,cause_predict,Recall,0.4895
+Share first layer,0.25,cause_predict,F1 Score,0.5685
+Share first layer,0.25,pair_predict,Precision,0.5643
+Share first layer,0.25,pair_predict,Recall,0.4856
+Share first layer,0.25,pair_predict,F1 Score,0.5205
+Share first layer,0.25,emotion_predict,Precision,0.7638
+Share first layer,0.25,emotion_predict,Recall,0.6369
+Share first layer,0.25,emotion_predict,F1 Score,0.6914
+Share first layer,0.25,cause_predict,Precision,0.6958
+Share first layer,0.25,cause_predict,Recall,0.4274
+Share first layer,0.25,cause_predict,F1 Score,0.5266
+Share first layer,0.25,pair_predict,Precision,0.5713
+Share first layer,0.25,pair_predict,Recall,0.4796
+Share first layer,0.25,pair_predict,F1 Score,0.5197
+Share first layer,0.75,emotion_predict,Precision,0.7702
+Share first layer,0.75,emotion_predict,Recall,0.655
+Share first layer,0.75,emotion_predict,F1 Score,0.7071
+Share first layer,0.75,cause_predict,Precision,0.701
+Share first layer,0.75,cause_predict,Recall,0.4413
+Share first layer,0.75,cause_predict,F1 Score,0.5398
+Share first layer,0.75,pair_predict,Precision,0.5693
+Share first layer,0.75,pair_predict,Recall,0.4903
+Share first layer,0.75,pair_predict,F1 Score,0.5257
+Share first layer,0.75,emotion_predict,Precision,0.7518
+Share first layer,0.75,emotion_predict,Recall,0.6526
+Share first layer,0.75,emotion_predict,F1 Score,0.6971
+Share first layer,0.75,cause_predict,Precision,0.7159
+Share first layer,0.75,cause_predict,Recall,0.4297
+Share first layer,0.75,cause_predict,F1 Score,0.534
+Share first layer,0.75,pair_predict,Precision,0.5599
+Share first layer,0.75,pair_predict,Recall,0.4865
+Share first layer,0.75,pair_predict,F1 Score,0.5188
